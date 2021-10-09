@@ -1,0 +1,18 @@
+[submodule "taxi_master"]
+	path = taxi_master
+	url = https://github.com/sinewtech/taxi_master
+[submodule "taxi_cliente"]
+	path = taxi_cliente
+	url = https://github.com/sinewtech/taxi_cliente
+[submodule "taxi_operador"]
+	path = taxi_operador
+	url = https://github.com/sinewtech/taxi_operador
+[submodule "taxi_conductor"]
+	path = taxi_conductor
+	url = https://github.com/sinewtech/taxi_conductor
+[submodule "taxi_landing"]
+	path = taxi_landing
+	url = https://github.com/sinewtech/taxi_landing
+[submodule "taxi_functions"]
+	path = taxi_functions
+	url = https://github.com/sinewtech/taxi_functions
